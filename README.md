@@ -11,7 +11,7 @@ new Imgur({
 ```
 
 ## Demo
-[Demo](https://carry0987.github.io/Imgur-Upload/)
+[Demo](https://gilg4mesh.github.io/Imgur-Upload/)
 
 ## Download
-[Link](https://github.com/carry0987/Imgur-Upload/releases/)
+[Link](https://github.com/gilg4mesh/Imgur-Upload/releases/)
